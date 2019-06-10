@@ -1,15 +1,17 @@
 # myRetail
 
-myRetail API
-- https://target-myretail.herokuapp.com/
+myRetail API - https://target-myretail.herokuapp.com/
 
-API documentation and test scenarios
-- https://documenter.getpostman.com/view/7500303/S1TZyvw7
+API documentation and test scenarios - https://documenter.getpostman.com/view/7500303/S1TZyvw7
 
 Architecture:
 - Spring Boot app
 - Mongo DB Atlas
 - Hosted on Heroku
+
+Local setup:
+- Don't forget to turn on annotations processing for lombok
+- MongoDB password is passed during runtime, configure application.properties to point to your own mongoDB collection
 
 # More about myRetail
 
