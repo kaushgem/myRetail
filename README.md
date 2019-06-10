@@ -1,8 +1,9 @@
 # myRetail
 
-myRetail API - https://target-myretail.herokuapp.com/
+Postman API documentation and test scenarios - https://documenter.getpostman.com/view/7500303/S1TZyvw7
 
-API documentation and test scenarios - https://documenter.getpostman.com/view/7500303/S1TZyvw7
+Heroku url - https://target-myretail.herokuapp.com/
+
 
 Architecture:
 - Spring Boot app
@@ -12,6 +13,8 @@ Architecture:
 Local setup:
 - Don't forget to turn on annotations processing for lombok
 - MongoDB password is passed during runtime, configure application.properties to point to your own mongoDB collection
+
+
 
 # More about myRetail
 
