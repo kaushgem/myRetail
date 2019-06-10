@@ -2,7 +2,7 @@
 
 Postman API documentation and test scenarios - https://documenter.getpostman.com/view/7500303/S1TZyvw7
 
-Heroku url - https://target-myretail.herokuapp.com/
+Heroku url - https://target-myretail.herokuapp.com/products/13860428
 
 
 Architecture:
